@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://emrekaramustafa.github.io/cv-maker-pro-legal/sitemap.xml
