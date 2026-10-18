@@ -1,35 +1,35 @@
 /* ============================================================
-   CV Maker Pro+ — shared stylesheet
+   Open To Work — stylesheet for the static legal/blog pages
    Pure static CSS. No external fonts, no CDNs, no JavaScript.
    ============================================================ */
 
 :root {
-  --accent: #6366F1;
-  --accent-strong: #4F46E5;
-  --accent-soft: #EEF0FE;
-  --bg: #FFFFFF;
-  --bg-soft: #F6F7FB;
+  --accent: #0E5E4F;
+  --accent-strong: #0A4A3E;
+  --accent-soft: #E2EFEA;
+  --bg: #F7F6F2;
+  --bg-soft: #F0EEE8;
   --card: #FFFFFF;
-  --text: #1F2430;
-  --text-muted: #5B6272;
-  --border: #E4E7EF;
-  --shadow: 0 1px 2px rgba(15, 23, 42, 0.06), 0 8px 24px rgba(15, 23, 42, 0.06);
+  --text: #16201D;
+  --text-muted: #4E5A56;
+  --border: #DEDAD0;
+  --shadow: 0 1px 2px rgba(22, 32, 29, 0.06), 0 4px 12px rgba(22, 32, 29, 0.08);
   --radius: 14px;
   color-scheme: light dark;
 }
 
 @media (prefers-color-scheme: dark) {
   :root {
-    --accent: #818CF8;
-    --accent-strong: #A5B4FC;
-    --accent-soft: #26283F;
-    --bg: #12141C;
-    --bg-soft: #191C27;
-    --card: #1E2130;
-    --text: #E8EAF2;
-    --text-muted: #A3A9BC;
-    --border: #2C3042;
-    --shadow: 0 1px 2px rgba(0, 0, 0, 0.4), 0 8px 24px rgba(0, 0, 0, 0.35);
+    --accent: #5CC6A8;
+    --accent-strong: #7FD6BD;
+    --accent-soft: #15332C;
+    --bg: #0E1412;
+    --bg-soft: #161D1B;
+    --card: #161D1B;
+    --text: #F2F1EC;
+    --text-muted: #B4BCB8;
+    --border: #2E3835;
+    --shadow: 0 1px 2px rgba(0, 0, 0, 0.4), 0 4px 12px rgba(0, 0, 0, 0.45);
   }
 }
 
@@ -106,7 +106,8 @@ p { margin: 0 0 1em; }
   white-space: nowrap;
 }
 
-.brand span { color: var(--accent); }
+.brand { display: inline-flex; align-items: center; gap: 8px; }
+.brand svg { width: 24px; height: 24px; flex: none; }
 .brand:hover { text-decoration: none; }
 
 .site-nav {
@@ -545,4 +546,8 @@ p { margin: 0 0 1em; }
   .hero { padding: 48px 0 44px; }
   .section { padding: 40px 0; }
   .nav-wrap { justify-content: center; }
+}
+
+@media (prefers-color-scheme: dark) {
+  .btn-primary, .btn-primary:hover { color: #08201A; }
 }

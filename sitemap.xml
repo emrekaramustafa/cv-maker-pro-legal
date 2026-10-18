@@ -1,56 +1,63 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-        xmlns:xhtml="http://www.w3.org/1999/xhtml">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://emrekaramustafa.github.io/cv-maker-pro-legal/</loc>
-    <lastmod>2026-07-19</lastmod>
-    <xhtml:link rel="alternate" hreflang="tr" href="https://emrekaramustafa.github.io/cv-maker-pro-legal/"/>
-    <xhtml:link rel="alternate" hreflang="en" href="https://emrekaramustafa.github.io/cv-maker-pro-legal/en/"/>
+    <lastmod>2026-10-18</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://emrekaramustafa.github.io/cv-maker-pro-legal/"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://emrekaramustafa.github.io/cv-maker-pro-legal/tr/"/>
   </url>
   <url>
-    <loc>https://emrekaramustafa.github.io/cv-maker-pro-legal/en/</loc>
-    <lastmod>2026-07-19</lastmod>
-    <xhtml:link rel="alternate" hreflang="tr" href="https://emrekaramustafa.github.io/cv-maker-pro-legal/"/>
-    <xhtml:link rel="alternate" hreflang="en" href="https://emrekaramustafa.github.io/cv-maker-pro-legal/en/"/>
+    <loc>https://emrekaramustafa.github.io/cv-maker-pro-legal/tr/</loc>
+    <lastmod>2026-10-18</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://emrekaramustafa.github.io/cv-maker-pro-legal/"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://emrekaramustafa.github.io/cv-maker-pro-legal/tr/"/>
+  </url>
+  <url>
+    <loc>https://emrekaramustafa.github.io/cv-maker-pro-legal/app/</loc>
+    <lastmod>2026-10-18</lastmod>
   </url>
   <url>
     <loc>https://emrekaramustafa.github.io/cv-maker-pro-legal/templates.html</loc>
-    <lastmod>2026-07-19</lastmod>
+    <lastmod>2026-10-18</lastmod>
   </url>
   <url>
     <loc>https://emrekaramustafa.github.io/cv-maker-pro-legal/privacy-policy.html</loc>
-    <lastmod>2026-07-19</lastmod>
+    <lastmod>2026-10-18</lastmod>
   </url>
   <url>
     <loc>https://emrekaramustafa.github.io/cv-maker-pro-legal/terms-of-service.html</loc>
-    <lastmod>2026-07-19</lastmod>
+    <lastmod>2026-10-18</lastmod>
+  </url>
+  <url>
+    <loc>https://emrekaramustafa.github.io/cv-maker-pro-legal/support.html</loc>
+    <lastmod>2026-10-18</lastmod>
   </url>
   <url>
     <loc>https://emrekaramustafa.github.io/cv-maker-pro-legal/blog/</loc>
-    <lastmod>2026-07-19</lastmod>
+    <lastmod>2026-10-18</lastmod>
   </url>
   <url>
     <loc>https://emrekaramustafa.github.io/cv-maker-pro-legal/blog/ats-nedir.html</loc>
-    <lastmod>2026-07-19</lastmod>
+    <lastmod>2026-10-18</lastmod>
   </url>
   <url>
     <loc>https://emrekaramustafa.github.io/cv-maker-pro-legal/blog/cv-formati-2026.html</loc>
-    <lastmod>2026-07-19</lastmod>
+    <lastmod>2026-10-18</lastmod>
   </url>
   <url>
     <loc>https://emrekaramustafa.github.io/cv-maker-pro-legal/blog/cv-hatalari.html</loc>
-    <lastmod>2026-07-19</lastmod>
+    <lastmod>2026-10-18</lastmod>
   </url>
   <url>
     <loc>https://emrekaramustafa.github.io/cv-maker-pro-legal/blog/on-yazi-nasil-yazilir.html</loc>
-    <lastmod>2026-07-19</lastmod>
+    <lastmod>2026-10-18</lastmod>
   </url>
   <url>
     <loc>https://emrekaramustafa.github.io/cv-maker-pro-legal/blog/ingilizce-cv-hazirlama.html</loc>
-    <lastmod>2026-07-19</lastmod>
+    <lastmod>2026-10-18</lastmod>
   </url>
   <url>
     <loc>https://emrekaramustafa.github.io/cv-maker-pro-legal/blog/yeni-mezun-cv.html</loc>
-    <lastmod>2026-07-19</lastmod>
+    <lastmod>2026-10-18</lastmod>
   </url>
 </urlset>
